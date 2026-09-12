@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="band_name">The Neighbourhood</string>
+    <string name="monthly_listeners">47.5M monthly listeners</string>
+    <string name="on_tour">On Tour</string>
+    <string name="tour_month">SEP</string>
+    <string name="tour_day">21</string>
+    <string name="tour_city">Zapopan</string>
+    <string name="tour_location">Auditorio Telmex</string>
+    <string name="tour_time">Mon 9:00 PM</string>
+    <string name="purchase">Purchase</string>
+    <string name="purchased">Purchased</string>
+    <string name="discography">Discography</string>
+    <string name="album_1_title">I Love You.</string>
+    <string name="album_2_title">Wiped Out!</string>
+    <string name="desc_favorite">Favorite</string>
+    <string name="desc_album_1">Album 1</string>
+    <string name="desc_album_2">Album 2</string>
+</resources>
